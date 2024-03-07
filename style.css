@@ -1,13 +1,14 @@
 :root{
     --black: #00e3c4;
-
+    --white: #ffffff;
 }
 
 
 
 body{
-    background-color: crimson;
-    color: black;
+    background-color: var(--white)
+
+    color: (var(--black)
 }
 
 img{

@@ -9,7 +9,7 @@ body{
     background-color: var(--red);
 
     img{
-        width: 7%;
+        width: 20%;
     }
     color: var(--black);
 }

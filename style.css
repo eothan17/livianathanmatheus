@@ -8,14 +8,14 @@
 body{
     background-color: var(--red);
 
-    img{
-        width: 3o%x;
-    }
-    
+
 
     color: var(--black);
 }
-
+    img{
+        width: 30%;
+    }
+    
 img{
     width: 30%;
 }
@@ -24,7 +24,7 @@ header{
     justify-content: space-around;
     align-items: center;
 }
-.img intro{
+.img-intro{
     width: 20%
 }
 

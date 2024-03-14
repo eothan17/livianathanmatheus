@@ -9,11 +9,19 @@ body{
     background-color: var(--red);
 
     img{
-        width: 20%;
+        width: 150px;
     }
+    
+
     color: var(--black);
 }
 
 img{
     width: 20%;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
 }
